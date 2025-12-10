@@ -44,3 +44,10 @@ packages/cli/THIRD_PARTY_LICENSES.md
 .coverage
 .nyc_output
 packages/cli/src/commands/export/outputs
+
+# n8n local files
+n8n-local-files/
+
+# Docker volumes data
+postgres_data/
+n8n_data/
